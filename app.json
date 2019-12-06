@@ -1,0 +1,19 @@
+{
+    "name": "jiaojie_ql",
+    "description": "jiaojie-miaoshu",
+    "dependencies": {},
+    "alias": {},
+    "appKey": "0haNpnh0DXwR0PrOsTvs2ekaAhvV3aic",
+    "appSecret": "3pSgXqyBQnGcnICrZ4tN797gvGwdg5Vz",
+    "framework": "vue",
+    "git": {
+        "url": "https://github.com/qiaoli900311/qa2.git",
+        "isPrivate": 1,
+        "username": "qiaoli900311",
+        "password": "48111400qiaoli"
+    },
+    "id": 256,
+    "isSupportDesigner": 0,
+    "platform": "pc",
+    "projectId": "f6b0c4c019d59bcd27c0ce1727b6da48"
+}
